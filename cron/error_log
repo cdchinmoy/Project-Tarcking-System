@@ -1,0 +1,30 @@
+[21-Jul-2017 09:40:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:41:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:42:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:43:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:44:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:45:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:46:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:47:02 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:48:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:49:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:50:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:51:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:52:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:53:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:54:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:55:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:56:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:57:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:58:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 09:59:01 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/exoticapages/public_html/pts/cron/Common_model.php on line 3
+[21-Jul-2017 10:00:01 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/exoticapages/public_html/pts/cron/cron.php on line 100
+[21-Jul-2017 10:01:01 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/exoticapages/public_html/pts/cron/cron.php on line 100
+[21-Jul-2017 10:02:01 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/exoticapages/public_html/pts/cron/cron.php on line 100
+[21-Jul-2017 10:03:01 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/exoticapages/public_html/pts/cron/cron.php on line 100
+[21-Jul-2017 10:11:36 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/exoticapages/public_html/pts/cron/cron.php on line 101
+[21-Jul-2017 10:13:43 UTC] PHP Fatal error:  Call to undefined method PDO::close() in /home/exoticapages/public_html/pts/cron/cron.php on line 101
+[21-Jul-2017 10:26:17 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/exoticapages/public_html/pts/cron/cron.php on line 69
+[21-Jul-2017 10:26:38 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/exoticapages/public_html/pts/cron/cron.php on line 69
+[21-Jul-2017 10:26:41 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/exoticapages/public_html/pts/cron/cron.php on line 69
+[21-Jul-2017 10:52:23 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/exoticapages/public_html/pts/cron/sel.php on line 21
